@@ -1,0 +1,17 @@
+{
+  "name": "siliconflow-ai-provider",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.10",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.3"
+  }
+}
